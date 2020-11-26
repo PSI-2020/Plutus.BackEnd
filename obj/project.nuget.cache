@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkC2g55tdgC3+nLg9BLgV9GdxYUvO/mCFqT+KdbwOJwGL1gvarNzVvf4hoIJIdYYygESenTy8iqlYbV6bvcT4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eglek\\OneDrive\\Desktop\\Plutus.BackEnd\\Plutus.BackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eglek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eglek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
